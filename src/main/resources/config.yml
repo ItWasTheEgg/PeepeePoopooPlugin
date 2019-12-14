@@ -1,0 +1,9 @@
+// **************************
+// * WELCOME TO THE CONFIG! *
+// * CONTAINS ALL OPTIONS.  *
+// **************************
+version: 'TEST'
+//DO NOT EDIT ABOVE CONFIG OPTION
+
+// Set to false to disable /info command
+infoCommandEnabled: true

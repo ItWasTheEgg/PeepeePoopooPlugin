@@ -1,0 +1,23 @@
+name: peepoo
+main: me.egg.peepoo.Main
+version: 1.0
+api-version: 1.13
+commands:
+  mcsp:
+    description: Base character profile creation command.
+    aliases: [minecraftsexplugin]
+    usage: |
+      Base command of the character creation process.
+      /mscp <argument> <variable>
+  info:
+    description: Shows info card for players
+    aliases: [mcspinfo, mcspi, spinfo, spi]
+    Usage: |
+      Shows info card for players.
+      /info
+      /info <player>
+  sex:
+    description: Activates sex mode.
+
+
+
